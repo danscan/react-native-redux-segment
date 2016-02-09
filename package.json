@@ -1,0 +1,27 @@
+{
+  "name": "react-native-redux-segment",
+  "version": "1.0.0",
+  "description": "Automatically send redux actions to Segment.com",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "segment",
+    "analytics",
+    "react",
+    "native"
+  ],
+  "author": "Dan Scanlon",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.9.1",
+    "i": "^0.3.4"
+  },
+  "devDependencies": {
+    "babel-eslint": "^4.1.8",
+    "eslint": "^1.10.3",
+    "eslint-config-airbnb": "^5.0.0",
+    "eslint-plugin-react": "^3.16.1"
+  }
+}
